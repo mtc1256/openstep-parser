@@ -7,4 +7,6 @@
 Parse Xcode projects directly using python. It doesn't require system command utilities.
 
 
+Xcode .xcodeproj 工程配置文件解析利器
+
 
